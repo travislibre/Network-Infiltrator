@@ -1,0 +1,48 @@
+Assisted with Internal Training Network scoping and research (May 23rd – May 24th):
+
+Collaborated with Cesar, Jackie, and Xander to draft an initial report on the Internal Training Network.
+Provided support to Cesar and Jackie in understanding computer networking concepts.
+Received feedback from Marc Skogland on the tool and participated in a meeting with other interns and Kevin Calvin.
+Faced challenges in defining project goals and setting objectives.
+Introduced Cesar and Jackie to the 5- & 7-layer models of computer networks, common protocols, router/switch/server functionality, and network essentials.
+Wrote an Active Directory Cyber Threat Assessment document (May 24th – June 1st):
+
+Received a task from Hunter to work on the Active Directory Cyber Threat Assessment.
+Conducted research on Microsoft Active Directory and related services in collaboration with Xander.
+Compiled a 14-page formal draft outlining the function, vulnerabilities, and methods of exploitation in Active Directory.
+Set up a Virtual Machine network with Kali Linux, Metasploitable, and Windows Server machines.
+Established a mock Active Directory for pen-testing and network reconnaissance, including a Domain Services tool and mock users and database.
+Configured a virtual environment on my research laptop for PowerShell experimentation.
+Explored file encryption and decryption techniques.
+Successfully solved a crackme box through reverse engineering.
+Learned PowerShell & C# scripting for my intern project (June 5th – 6th):
+
+Invested time in learning PowerShell and C# scripting languages.
+Familiarized myself with best practices, common methods, and network and socket programming.
+Set up a second virtual Windows Server (June 6th - June 7th):
+
+Enhanced the virtual network to create a more realistic target system emulation.
+Completed a majority of the initial project requirements (June 6th – June 8th):
+
+Developed Windows Server and Active Directory enumeration tools to survey a network system.
+Collected command outputs into a structured PowerShell data format.
+Implemented functions for encoding and decoding output data to facilitate transit.
+Created an automated script to establish hidden TCP ports and data streams between virtual end-users, allowing encoded data transmission from a compromised system to a listener on another system.
+Assisted in the development of a scripting framework for future ACyD activities in networked environments.
+Achieved all the above without external libraries or dependencies to minimize detection.
+Integrated file compression techniques into the project.
+Employed Chimera to obfuscate PowerShell scripts.
+Enhanced documentation for improved readability and maintainability.
+Optimized code to leverage the capabilities of the C# .Net framework.
+Modularized the code into functions to enhance reusability.
+Expanded TCP network stream functionality by enabling users to define receiver and sender IP addresses.
+Deepened familiarity with Ghidra by disassembling native Windows and Linux OS files.
+Gained understanding of the full assembly and linking process for compiled code.
+Started the learning process for Rust programming language and set up a test environment.
+Implemented a volatile memory patch for amsi.dll to bypass the Anti-Malware Scan Interface (AMSI) and evade script detection.
+Restructured the entire script to execute solely in volatile memory, further increasing its evasiveness.
+Introduced data segmentation to reduce packet size and minimize network trace.
+Added a time delay for packet transmission to stagger network traces.
+Further improved research environment (June 19th):
+
+Set up an external switch to enable my offnet research laptop's Linux VM to access the internet, enhancing the overall research capabilities.
