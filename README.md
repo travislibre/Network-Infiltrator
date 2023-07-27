@@ -103,7 +103,13 @@ o	Practiced advanced assembly control flow, register reordering.
 o	Re-familiarized myself with C pointer logic, arithmetic. 
 
 
-
+Done daily stand ups with Kevin
+We submitted the initial SSP
+Drafted Project overview document
+Reviewed and documented security baselines
+Researching/Working on configuring virtual environments
+Created a graph overview of CTE with all necessary components
+Researched necessary licenses and software
 
 •	Assisted with Internal Training Network scoping and research. (May 23rd – May 24th)
 o	Drafted an initial report along with Cesar, Jackie, and Xander, as well as helped Cesar and Jackie on computer networking.
